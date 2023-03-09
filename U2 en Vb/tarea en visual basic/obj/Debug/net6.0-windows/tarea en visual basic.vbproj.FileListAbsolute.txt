@@ -1,0 +1,17 @@
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\bin\Debug\net6.0-windows\tarea en visual basic.exe
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\bin\Debug\net6.0-windows\tarea en visual basic.deps.json
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\bin\Debug\net6.0-windows\tarea en visual basic.runtimeconfig.json
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\bin\Debug\net6.0-windows\tarea en visual basic.dll
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\bin\Debug\net6.0-windows\tarea en visual basic.pdb
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea en visual basic.vbproj.AssemblyReference.cache
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea_en_visual_basic.Form1.resources
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea en visual basic.vbproj.GenerateResource.cache
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea en visual basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea en visual basic.AssemblyInfoInputs.cache
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea en visual basic.AssemblyInfo.vb
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea en visual basic.vbproj.CoreCompileInputs.cache
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea en visual basic.dll
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\refint\tarea en visual basic.dll
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea en visual basic.pdb
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\tarea en visual basic.genruntimeconfig.cache
+C:\Users\juan\source\repos\tarea en visual basic\tarea en visual basic\obj\Debug\net6.0-windows\ref\tarea en visual basic.dll
